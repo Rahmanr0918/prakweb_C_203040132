@@ -22,7 +22,6 @@ include './config/koneksi-db.php';
 <body>
   <div class="alert alert-secondary text-center" role="alert">
     <h1>Buku Terpopuler 2022</h1>
-    <h3>By Headway</h3>
     <p>Rahman Ramadan - 203040132</p>
   </div>
 
