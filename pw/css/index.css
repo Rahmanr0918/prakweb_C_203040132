@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tambah {
+  display: flex;
+  justify-content: center;
+}
+
+.tambah .btn {
+  padding: 8px 350px;
+  margin: 0px 0px 20px;
+}
+.col-10 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-10 .card {
+  width: 200px;
+  margin: 0 10px 10px;
+}
