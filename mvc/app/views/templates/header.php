@@ -24,11 +24,9 @@
             <a class="nav-link" href="<?= BASEURL; ?>">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="<?= BASEURL; ?>/mahasiswa">Mahasiswa</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
-          </li>
+
         </ul>
       </div>
     </div>
